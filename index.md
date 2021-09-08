@@ -1,5 +1,7 @@
 ## Storm surge map 
 
+![image](/maps/about_map.png)
+
 Here is the link to the [maps](https://junwhanlee89.github.io/csv-to-html-table/)
 
 [from root2](/maps/map_1.html)
@@ -10,7 +12,7 @@ Here is the link to the [maps](https://junwhanlee89.github.io/csv-to-html-table/
 
 <!-- <img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div> -->
 
-![image](/maps/about_map.png)
+
 
 
 [map1](https://github.com/junwhanlee89/VASG/maps/map_1.html)
