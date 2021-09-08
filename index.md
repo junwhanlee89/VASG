@@ -10,7 +10,7 @@ Here is the link to the [maps](https://junwhanlee89.github.io/csv-to-html-table/
 
 
 
-[image](/maps/about_map.jpg)
+![image](/maps/about_map.jpg)
 
 
 [map1](https://github.com/junwhanlee89/VASG/maps/map_1.html)
