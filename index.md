@@ -1,5 +1,7 @@
 ## Storm surge map 
 
+[from root2](/maps/map_1.html)
+
 [from root](maps/map_1.html)
 
 <a href="https://junwhanlee89.github.io/VASG/maps/map_1.html" title="About Me">About Me</a>
