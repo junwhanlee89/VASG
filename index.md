@@ -8,7 +8,7 @@ Here is the link to the [maps](https://junwhanlee89.github.io/csv-to-html-table/
 
 <a href="https://junwhanlee89.github.io/VASG/maps/map_1.html" title="About Me">About Me</a>
 
-<img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div>
+<!-- <img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div> -->
 
 ![image](/maps/about_map.png)
 
