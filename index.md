@@ -2,8 +2,7 @@
 
 # Here is the link to the [maps](https://junwhanlee89.github.io/csv-to-html-table/)
 
-
-We developed this web mapping tool to raise the communities’ awareness of storm surge hazards and to support decision-makers and policymakers. We used a recently developed machine learning model to predict peak storm surge from tropical cyclone track time series ([Lee et al., 2021](https://eartharxiv.org/repository/view/2570/)).
+We developed this web mapping tool to raise the communities’ awareness of storm surge hazards and to support decision-makers and policymakers. We used a recently developed machine learning model to predict peak storm surge from tropical cyclone track time series ([Lee et al., 2021](https://eartharxiv.org/repository/view/2570/)). Currently, this tool only shows 100 synthetic storm scenarios, and the update will continue.
 
 ![image](/maps/about_map.png)
 
